@@ -1,18 +1,22 @@
 .box{
     width: 50px;
     height: 20px;
-    padding: 10px;
-    margin: 20px 10px;
 }
 
 #box1{
     border: 1px solid;
+    padding: 10px;
+    margin: 20px;
 }
 
 #box2{
-    border: 1px dashed;
+    border: 2px dashed;
+    padding: 5px 10px;
+    margin: 20px 10px;
 }
 
 #box3{
-    border: 1px dotted;
+    border: 3px dotted;
+    padding: 5px 10px 0px 2px;
+    margin: 5px 10px 0px 2px;
 }
